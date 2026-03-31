@@ -37,6 +37,17 @@ This was my first experience working independently with a large dataset. I focus
 
 ---
 
+## Sample Visualizations
+
+### Most Common UFO Shapes
+![Shapes](shapes.png)
+
+### Impact of Independence Day (1996) on UFO Sightings
+![Movie](movie%20influence.png)
+
+### Model Performance for UFO Shape Prediction (Normalized Confusion Matrix)
+![Confusion](Confusion%20matrix.png)
+
 ## Plots / Visualizations
 
 I used different plots to explore the data:
